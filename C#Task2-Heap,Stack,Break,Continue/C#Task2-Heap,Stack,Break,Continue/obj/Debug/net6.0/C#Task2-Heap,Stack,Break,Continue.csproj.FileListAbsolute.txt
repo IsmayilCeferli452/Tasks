@@ -1,0 +1,15 @@
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task2-Heap,Stack,Break,Continue\C#Task2-Heap,Stack,Break,Continue\bin\Debug\net6.0\C#Task2-Heap,Stack,Break,Continue.exe
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task2-Heap,Stack,Break,Continue\C#Task2-Heap,Stack,Break,Continue\bin\Debug\net6.0\C#Task2-Heap,Stack,Break,Continue.deps.json
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task2-Heap,Stack,Break,Continue\C#Task2-Heap,Stack,Break,Continue\bin\Debug\net6.0\C#Task2-Heap,Stack,Break,Continue.runtimeconfig.json
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task2-Heap,Stack,Break,Continue\C#Task2-Heap,Stack,Break,Continue\bin\Debug\net6.0\C#Task2-Heap,Stack,Break,Continue.dll
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task2-Heap,Stack,Break,Continue\C#Task2-Heap,Stack,Break,Continue\bin\Debug\net6.0\C#Task2-Heap,Stack,Break,Continue.pdb
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task2-Heap,Stack,Break,Continue\C#Task2-Heap,Stack,Break,Continue\obj\Debug\net6.0\C#Task2-Heap,Stack,Break,Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task2-Heap,Stack,Break,Continue\C#Task2-Heap,Stack,Break,Continue\obj\Debug\net6.0\C#Task2-Heap,Stack,Break,Continue.AssemblyInfoInputs.cache
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task2-Heap,Stack,Break,Continue\C#Task2-Heap,Stack,Break,Continue\obj\Debug\net6.0\C#Task2-Heap,Stack,Break,Continue.AssemblyInfo.cs
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task2-Heap,Stack,Break,Continue\C#Task2-Heap,Stack,Break,Continue\obj\Debug\net6.0\C#Task2-Heap,Stack,Break,Continue.csproj.CoreCompileInputs.cache
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task2-Heap,Stack,Break,Continue\C#Task2-Heap,Stack,Break,Continue\obj\Debug\net6.0\C#Task2-Heap,Stack,Break,Continue.sourcelink.json
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task2-Heap,Stack,Break,Continue\C#Task2-Heap,Stack,Break,Continue\obj\Debug\net6.0\C#Task2-Heap,Stack,Break,Continue.dll
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task2-Heap,Stack,Break,Continue\C#Task2-Heap,Stack,Break,Continue\obj\Debug\net6.0\refint\C#Task2-Heap,Stack,Break,Continue.dll
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task2-Heap,Stack,Break,Continue\C#Task2-Heap,Stack,Break,Continue\obj\Debug\net6.0\C#Task2-Heap,Stack,Break,Continue.pdb
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task2-Heap,Stack,Break,Continue\C#Task2-Heap,Stack,Break,Continue\obj\Debug\net6.0\C#Task2-Heap,Stack,Break,Continue.genruntimeconfig.cache
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task2-Heap,Stack,Break,Continue\C#Task2-Heap,Stack,Break,Continue\obj\Debug\net6.0\ref\C#Task2-Heap,Stack,Break,Continue.dll

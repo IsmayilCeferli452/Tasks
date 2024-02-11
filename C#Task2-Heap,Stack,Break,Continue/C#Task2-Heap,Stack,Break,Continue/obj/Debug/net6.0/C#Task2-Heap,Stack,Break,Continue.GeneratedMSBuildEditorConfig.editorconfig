@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = C_Task2_Heap_Stack_Break_Continue
+build_property.ProjectDir = C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task2-Heap,Stack,Break,Continue\C#Task2-Heap,Stack,Break,Continue\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
