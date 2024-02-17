@@ -1,0 +1,15 @@
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task-Ref,Out,Params,Overloading\C#Task-Ref,Out,Params,Overloading\bin\Debug\net6.0\C#Task-Ref,Out,Params,Overloading.exe
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task-Ref,Out,Params,Overloading\C#Task-Ref,Out,Params,Overloading\bin\Debug\net6.0\C#Task-Ref,Out,Params,Overloading.deps.json
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task-Ref,Out,Params,Overloading\C#Task-Ref,Out,Params,Overloading\bin\Debug\net6.0\C#Task-Ref,Out,Params,Overloading.runtimeconfig.json
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task-Ref,Out,Params,Overloading\C#Task-Ref,Out,Params,Overloading\bin\Debug\net6.0\C#Task-Ref,Out,Params,Overloading.dll
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task-Ref,Out,Params,Overloading\C#Task-Ref,Out,Params,Overloading\bin\Debug\net6.0\C#Task-Ref,Out,Params,Overloading.pdb
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task-Ref,Out,Params,Overloading\C#Task-Ref,Out,Params,Overloading\obj\Debug\net6.0\C#Task-Ref,Out,Params,Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task-Ref,Out,Params,Overloading\C#Task-Ref,Out,Params,Overloading\obj\Debug\net6.0\C#Task-Ref,Out,Params,Overloading.AssemblyInfoInputs.cache
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task-Ref,Out,Params,Overloading\C#Task-Ref,Out,Params,Overloading\obj\Debug\net6.0\C#Task-Ref,Out,Params,Overloading.AssemblyInfo.cs
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task-Ref,Out,Params,Overloading\C#Task-Ref,Out,Params,Overloading\obj\Debug\net6.0\C#Task-Ref,Out,Params,Overloading.csproj.CoreCompileInputs.cache
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task-Ref,Out,Params,Overloading\C#Task-Ref,Out,Params,Overloading\obj\Debug\net6.0\C#Task-Ref,Out,Params,Overloading.sourcelink.json
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task-Ref,Out,Params,Overloading\C#Task-Ref,Out,Params,Overloading\obj\Debug\net6.0\C#Task-Ref,Out,Params,Overloading.dll
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task-Ref,Out,Params,Overloading\C#Task-Ref,Out,Params,Overloading\obj\Debug\net6.0\refint\C#Task-Ref,Out,Params,Overloading.dll
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task-Ref,Out,Params,Overloading\C#Task-Ref,Out,Params,Overloading\obj\Debug\net6.0\C#Task-Ref,Out,Params,Overloading.pdb
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task-Ref,Out,Params,Overloading\C#Task-Ref,Out,Params,Overloading\obj\Debug\net6.0\C#Task-Ref,Out,Params,Overloading.genruntimeconfig.cache
+C:\Users\ismay\OneDrive\Masaüstü\Coding\Tasks\Tasks\C#Task-Ref,Out,Params,Overloading\C#Task-Ref,Out,Params,Overloading\obj\Debug\net6.0\ref\C#Task-Ref,Out,Params,Overloading.dll
